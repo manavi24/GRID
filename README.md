@@ -1,2 +1,4 @@
 # GRID
-Learned CSS GRID by creating photograph portfolio
+Learned CSS GRID by creating a photograph portfolio
+
+https://manavi24.github.io/GRID/
